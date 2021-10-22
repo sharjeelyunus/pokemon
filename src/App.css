@@ -31,6 +31,10 @@
   margin-left: 20px;
 }
 
+.pokemon-database {
+  background-color: #282c34;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
