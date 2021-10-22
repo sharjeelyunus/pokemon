@@ -19,7 +19,7 @@
   transform: scale(1.05);
 }
 
-img {
+.card-continer > a > img {
   width: 160px;
   height: 180px;
   display: block;
